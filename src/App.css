@@ -40,3 +40,6 @@
 .TodoItem-complete {
   text-decoration: underline;
 }
+.TodoItem img {
+  width: 20px;
+}
